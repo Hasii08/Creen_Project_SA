@@ -1,0 +1,2 @@
+rootProject.name='Creen App'
+include ':app'

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Creen App</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="itemsList">
+        <item>Safe Drinking Water</item>
+        <item>Tree Plantation</item>
+        <item>Sewerage</item>
+        <item>Solid Waste Management</item>
+        <item>Hygiene</item>
+    </string-array>
+
+    <string name="over_view">
+        The Creen is built around the idea of futuristic approach to improve the current state of
+        Pakistan. Not more than 35 years ago, cities like Islamabad and Lahore were a pleasant to visit.
+        While,Belgium and London were one of the most polluted cities in the world. If they can change it,
+        why can’t we? Similarly, this is pointed towards the youth of this country, who are capable enough
+        to turn the tides for a better future of their beloved homeland. This would give every citizen of
+        Pakistan to play his vital role in improving the state of Pakistan.
+    </string>
+
+    <string name="objectives">
+        Creen works as a bridge between Government offices and the citizens of Pakistan.
+        It will allow citizens to send their complaints directly to the government
+        offices. No more queuing around, waiting for applications to post or visiting the offices
+        to follow up for your issue. But its scope is not limited to that, Our mission is to
+        Educate, Motivate and Activate the civil society, especially the youth for the Cleaner,
+        Greener, Healthier environment and Educated Pakistan.
+    </string>
+</resources>
